@@ -1,0 +1,6 @@
+C:\Users\owner\source\repos\ArtGalleryWin\CGS\bin\Debug\CGS.dll
+C:\Users\owner\source\repos\ArtGalleryWin\CGS\bin\Debug\CGS.pdb
+C:\Users\owner\source\repos\ArtGalleryWin\CGS\obj\Debug\CGS.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\ArtGalleryWin\CGS\obj\Debug\CGS.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\ArtGalleryWin\CGS\obj\Debug\CGS.dll
+C:\Users\owner\source\repos\ArtGalleryWin\CGS\obj\Debug\CGS.pdb

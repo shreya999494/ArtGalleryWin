@@ -1,0 +1,15 @@
+C:\Users\owner\source\repos\ArtGalleryWin\ArtGalleryWin\bin\Debug\ArtGalleryWin.exe.config
+C:\Users\owner\source\repos\ArtGalleryWin\ArtGalleryWin\bin\Debug\ArtGalleryWin.exe
+C:\Users\owner\source\repos\ArtGalleryWin\ArtGalleryWin\bin\Debug\ArtGalleryWin.pdb
+C:\Users\owner\source\repos\ArtGalleryWin\ArtGalleryWin\bin\Debug\CGS.dll
+C:\Users\owner\source\repos\ArtGalleryWin\ArtGalleryWin\bin\Debug\CGS.pdb
+C:\Users\owner\source\repos\ArtGalleryWin\ArtGalleryWin\obj\Debug\ArtGalleryWin.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\ArtGalleryWin\ArtGalleryWin\obj\Debug\ArtGalleryWin.Form1.resources
+C:\Users\owner\source\repos\ArtGalleryWin\ArtGalleryWin\obj\Debug\ArtGalleryWin.Properties.Resources.resources
+C:\Users\owner\source\repos\ArtGalleryWin\ArtGalleryWin\obj\Debug\ArtGalleryWin.csproj.GenerateResource.cache
+C:\Users\owner\source\repos\ArtGalleryWin\ArtGalleryWin\obj\Debug\ArtGalleryWin.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\ArtGalleryWin\ArtGalleryWin\obj\Debug\ArtGalleryWin.csproj.CopyComplete
+C:\Users\owner\source\repos\ArtGalleryWin\ArtGalleryWin\obj\Debug\ArtGalleryWin.exe
+C:\Users\owner\source\repos\ArtGalleryWin\ArtGalleryWin\obj\Debug\ArtGalleryWin.pdb
+C:\Users\owner\source\repos\ArtGalleryWin\ArtGalleryWin\obj\Debug\ArtGalleryWin.CGSArt.resources
+C:\Users\owner\source\repos\ArtGalleryWin\ArtGalleryWin\obj\Debug\ArtGalleryWin.Form2.resources
